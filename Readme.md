@@ -17,3 +17,7 @@ mercadolibre es una gran referencia a tomar ya que la experiencia de cliente es 
 https://tienda.personal.com.ar/tienda?utm_source=google&utm_medium=cpc&gclid=EAIaIQobChMIpPefl4Xw8wIVTv7jBx1TfAQbEAAYASAAEgLZTvD_BwE
 
 TiendaPersonal la tomamos de ejemplo por la distribucion que tiene en su web de los productos es bastante llamativa para el usuario.
+
+https://shop.samsung.com/ar/?cid=ar_pd_ppc_google_none_ongoing_aon-brand-im_text_eta_tienda-samsung&ds_rl=1272136&ds_rl=1281149&ds_rl=1289474&ds_rl=1272136&gclid=EAIaIQobChMI1--Kg9jw8wIVZAnnCh2tjAtyEAAYASAAEgJSWvD_BwE&gclsrc=aw.ds
+
+Shop samsung, la tomamos de referencia porque tiene muy buena presentacion de equipos de alta gama y muestra formas de pagos , envios y plan canje. Estos se pueden acceder muy facilmente ya que están estrategicamente ubicados.
