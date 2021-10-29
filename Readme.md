@@ -14,3 +14,6 @@ https://ofertas.mercadolibre.cl/celulares-ao#DEAL_ID=MLC1252&S=landingHubcelular
 
 mercadolibre es una gran referencia a tomar ya que la experiencia de cliente es muy sencilla de usar.
 
+https://tienda.personal.com.ar/tienda?utm_source=google&utm_medium=cpc&gclid=EAIaIQobChMIpPefl4Xw8wIVTv7jBx1TfAQbEAAYASAAEgLZTvD_BwE
+
+TiendaPersonal la tomamos de ejemplo por la distribucion que tiene en su web de los productos es bastante llamativa para el usuario.
