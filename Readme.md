@@ -21,3 +21,6 @@ TiendaPersonal la tomamos de ejemplo por la distribucion que tiene en su web de 
 https://shop.samsung.com/ar/?cid=ar_pd_ppc_google_none_ongoing_aon-brand-im_text_eta_tienda-samsung&ds_rl=1272136&ds_rl=1281149&ds_rl=1289474&ds_rl=1272136&gclid=EAIaIQobChMI1--Kg9jw8wIVZAnnCh2tjAtyEAAYASAAEgJSWvD_BwE&gclsrc=aw.ds
 
 Shop samsung, la tomamos de referencia porque tiene muy buena presentacion de equipos de alta gama y muestra formas de pagos , envios y plan canje. Estos se pueden acceder muy facilmente ya que están estrategicamente ubicados.
+
+https://consumer.huawei.com/ar/
+Tienda Huawei, en esta tienda nos llamó mucho la atención los colores que tiene la pagína y tambien la variedad de equipos no solamente celulares , si no tambien pc, tabletas y más con buena disposición de los productos. 
